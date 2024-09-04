@@ -2,3 +2,5 @@
   
 <h6>September 4th. 2024.</h6>
 <p>First time learning Git and Github.</p>
+
+<p>.</p>
